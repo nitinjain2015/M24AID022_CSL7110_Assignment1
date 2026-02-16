@@ -1,5 +1,5 @@
 # M24AID022_CSL7110_Assignment1
-Assignment: Hadoop MapReduce & Apache Spark
+# Assignment: Hadoop MapReduce & Apache Spark
 Course: CSL7110 – Machine Learning with Big Data
 Environment: Windows 11 + WSL (Ubuntu)
 Frameworks: Apache Hadoop, Apache Spark
